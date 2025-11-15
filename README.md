@@ -1,7 +1,7 @@
 "# network-sniffer-GA" 
 This is the Major Project
 
-*** Folder Structure ***
+***  Folder Structure  ***
 Network-Packet-Analyzer-GA/
 │
 ├── src/
